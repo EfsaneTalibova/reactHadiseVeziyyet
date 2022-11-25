@@ -1,0 +1,8 @@
+.formComp{
+    background: aquamarine;
+    width: 300px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
